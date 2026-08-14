@@ -250,6 +250,7 @@ This project is part of a series of linked-view exploratory data analysis tools:
 
 - **Choropleth EDA — Univariate** — single variable choropleth with linked histogram, multiple classification schemes, and ColorBrewer palettes
 - **Choropleth EDA — Bivariate** — this tool
+- **Choropleth EDA — Two Maps** — two stacked univariate maps with independent palettes, synchronized zoom, and a linked scatterplot
 
 ---
 
